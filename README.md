@@ -6,9 +6,11 @@
 
 <div align="center" > <h3> Visitor count </h3> <img src="https://profile-counter.glitch.me/rachit298/count.svg" /> </div>
 
-<div> <h2> <img height="30" src="https://user-images.githubusercontent.com/69860596/232231187-b3336f15-6d0c-4397-a469-203ac3e90f91.png" /> About me </h2> <br/>
-My name is Rachit Srivastava.
+<div> <h2> <img height="30" src="https://user-images.githubusercontent.com/69860596/232231187-b3336f15-6d0c-4397-a469-203ac3e90f91.png" /> About me </h2>
+My name is Rachit Srivastava, and I am from India. I am currently learning front-end web development, and I often get the feeling to toss my laptop out of the window or set it on fire when my code doesn't work &#x1F642.
 </div>
+
+<br/>
 
 <div align="center">
 <p> Let's connect and have a chat <img height="20" src="https://user-images.githubusercontent.com/69860596/231992286-6963eabf-2f11-4fd7-ba95-8fdc3f475514.png" /> </p>
