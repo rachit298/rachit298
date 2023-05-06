@@ -1,7 +1,7 @@
 <h1 align="center">  Hi there <img height="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" /> </h1>
 
 <div align="center">
-<img src="https://media1.giphy.com/media/11SIBu3s72Co8w/200w.webp?cid=ecf05e47zg3kl7en3qdoot4kmintogtd4w6r2sem7hks1839&rid=200w.webp&ct=g" width="60%" style="position:absolute" frameBorder="0" allowFullScreen />
+<img height="200" width="300"  src="https://media1.giphy.com/media/11SIBu3s72Co8w/200w.webp?cid=ecf05e47zg3kl7en3qdoot4kmintogtd4w6r2sem7hks1839&rid=200w.webp&ct=g" width="60%" style="position:absolute" frameBorder="0" allowFullScreen />
 </div>
 
 <div align="center" > <h3> Visitor count </h3> <img src="https://profile-counter.glitch.me/rachit298/count.svg" /> </div>
